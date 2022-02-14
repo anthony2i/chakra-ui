@@ -1,5 +1,14 @@
 # Change Log
 
+## 1.3.6
+
+### Patch Changes
+
+- [#5500](https://github.com/chakra-ui/chakra-ui/pull/5500)
+  [`c5eb9c03c`](https://github.com/chakra-ui/chakra-ui/commit/c5eb9c03cd6925f8624ba48a406205d64000a2d1)
+  Thanks [@kk21](https://github.com/kk21)! - Fixed an UI issue where the Switch
+  component rendered a few pixels off the baseline.
+
 ## 1.3.5
 
 ### Patch Changes
